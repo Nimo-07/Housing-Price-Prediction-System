@@ -1,0 +1,6 @@
+Model: gradient_boost
+  MSE: 0.2416
+  RMSE: 0.4916
+  MAE: 0.3317
+  R2: 0.8156
+  MAPE: 19.2311
